@@ -180,6 +180,8 @@ Resources:
 
 
 
-The main problems I faced where when the code would translate to red, I guess identifying I did not enter come characters correctly.
+The main problems I faced where when the code would translate to red, I guess identifying I did not enter come characters correctly. Had trouble with pulling.
+
+[https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests]
 
 
