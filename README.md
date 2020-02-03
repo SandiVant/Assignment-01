@@ -29,7 +29,7 @@ The computer takes the code and reads the language carefully, taking out unneces
 
 # Lets Begin
 
--Acomputer is a clock with benefits.
+-A computer is a clock with benefits.
 -Code hops from box to box looking for instruction.
 -Code is the art.
 
@@ -45,10 +45,10 @@ Software- Reproducible units of digital execution.
 
 # How does code become software?
 
-The goal is to turn it into an explicit list of insturctions. These instructions are carried out by interconnected Logic gates. Turning your code into **SOFTWARE**.
+The goal is to turn it into an explicit list of instructions. These instructions are carried out by interconnected Logic gates. Turning your code into **SOFTWARE**.
 
 Every character 
-The goal is to turn it into an explicit list of insturctions. These instructions are carried out by interconnected Logic gates. Turning your code into **SOFTWARE**.while writing code truly matters.
+The goal is to turn it into an explicit list of instructions. These instructions are carried out by interconnected Logic gates. Turning your code into **SOFTWARE**.while writing code truly matters.
 
 **Mistakes leave the computer in a state of panic.**
 
@@ -114,7 +114,7 @@ _________________________________________________
 
 # Liquid Infrastructure
 
-“Enterprise” is a feared word among programmers, because it is underated in the sence if workload. 
+“Enterprise” is a feared word among programmers, because it is underrated in the sense if workload. 
 They have department meetings and tests which are important because there are many moving pieces.
 
 # Fun Facts:
@@ -180,5 +180,6 @@ Resources:
 
 
 
-The main problems I faced where when the code would tramdlate to red, I guess identifying I did not enter come characters correctly.
+The main problems I faced where when the code would translate to red, I guess identifying I did not enter come characters correctly.
+
 
