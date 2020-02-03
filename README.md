@@ -168,6 +168,8 @@ PHOTOGRAPHER: COREY OLSEN FOR BLOOMBERG BUSINESSWEEK
 Paul Ford is a writer and programmer who lives in Brooklyn, N.Y. He is a founding partner of Postlight, a company in New York City that builds Internet platforms and develops interactive products. He is writing a book of essays about Web pages that Farrar, Straus and Giroux will publish in 2016. His article, “The Surprising Sophistication of Twitter,” appeared in the Nov. 7, 2013, issue of Bloomberg Businessweek. E-mail: ford@ftrain.com. Twitter: @ftrain. GitHub: ftrain.
 
 
+Resources: 
+
 [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#grabbag]
 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#alt-h1]
@@ -178,5 +180,5 @@ Paul Ford is a writer and programmer who lives in Brooklyn, N.Y. He is a foundin
 
 
 
-
+The main problems I faced where when the code would tramdlate to red, I guess identifying I did not enter come characters correctly.
 
