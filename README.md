@@ -77,3 +77,15 @@ and
 * Python
 
 Most languages are free to download and use, being that when a language is created efficiently its considered a huge accomplishment and you would want it to bee free so more people use your creation.
+
+# The Beauty of the Standard Library
+The Standard Library is how a programming language software is made.
+A language is software for maling software.
+* The standard library is a set of premade software that you can reuse and apply.
+* Most modern languages have modules for image processing.
+* Pillow is the most commonly used image processing toolkit.
+
+# C:
+
+C is a simple language which works well if you are a meticulous arranger. If you are more on the sloppy side, it won't suit your needs as much. I uses ever last part of the computer- the memory, files, and a hard drive. There are many steps to masking C a fast software. These steps are called **optimizations** which are to programming, as loopholes are to taxes. The C Programmibng language by Ritchie and Brian Kernighan, Published in 1978 is a great C referance to start off.
+
