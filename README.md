@@ -19,3 +19,4 @@ i.e. amazon.
 
 
 # With Code 
+The computer takes it and reads the language carefully, taking out unnecessary elements and leaving only: ###### Tokens
