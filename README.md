@@ -128,8 +128,51 @@ They have department meetings and tests which are important because there are ma
 
 * Sometimes bugs cause error messages to pop up; sometimes they cause the program to give up the ghost and quit suddenly; sometimes they get caught in terrible loops and fill up the memory and choke all the resources of the computer until it has to be restarted. That’s called a *stack overflow.* 
 
+#### When developing software you're always going to have new Versions come out.
+
+*Odds are, if you’re doing any kind of programming, especially Web programming, you’ve adopted a framework. Whereas an SDK is an expression of a corporate philosophy, a framework is more like a product pitch. Want to save time? Tired of writing the same old code? Curious about the next new thing? You use a graphics framework to build graphical applications, a Web framework to build Web applications, a network framework to build network servers. There are hundreds of frameworks out there; just about every language has one.*
+
+1. All programming work must happen in a branch.
+2. When work is done, we will merge it back into the main branch; and 
+* Run tests;
+* Then “push” the code over to GitHub.
+3. At which point an automated service will run; and
+4. A service running on each of the 50 computers will “check out” the code; and
+5. Install it, overwriting the old version;
+6. Then stop the computer’s Web servers;
+7. Then restart them, so the new code can load and get to work.
 
 
+# The Triumph of Middle Management
+
+With code there will always be new bugs, new features, new needs.
+
+# How Do You Pick a Programming Language?
+
+[STRAIGHT FROM TEXT]
+*The choice is so hard. Everything can do everything, and people will tell you that you should use everything to do everything. So you need to figure out for yourself what kind of team you have, what kind of frameworks you like using, where people can be most productive, so they will stick around through the completion of the project. Most go with the lowest common denominator—Java, PHP—because they know that when people leave, they’ll be able to get more of them.*
+
+*Tell me that you program in Java, and I believe you to be either serious or boring. In Ruby, and you are interested in building things quickly. In Clojure, and I think you are smart but wonder if you ship. In Python, and I trust you implicitly. In PHP, and we sigh together. In C++ or C, and I nod humbly. In C#, and I smile and assume we have nothing in common. In Fortran, and I ask to see your security clearance. These languages contain entire civilizations.*
+
+
+## Should You Learn to Code?
+
+* You probably already do code. You do it in Excel or Google Spreadsheets. You run little processes in a sequence or do a series of find-and-replace routines in a big document.
+* If you work for and with good people, it can be very fun.
+* There’s likely to be work. But it’s a global industry, and there are thousands of people with great degrees. 
+
+
+
+
+PHOTOGRAPHER: COREY OLSEN FOR BLOOMBERG BUSINESSWEEK
+Paul Ford is a writer and programmer who lives in Brooklyn, N.Y. He is a founding partner of Postlight, a company in New York City that builds Internet platforms and develops interactive products. He is writing a book of essays about Web pages that Farrar, Straus and Giroux will publish in 2016. His article, “The Surprising Sophistication of Twitter,” appeared in the Nov. 7, 2013, issue of Bloomberg Businessweek. E-mail: ford@ftrain.com. Twitter: @ftrain. GitHub: ftrain.
+
+
+[https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#grabbag]
+
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#alt-h1]
+
+[https://www.youtube.com/watch?v=HUBNt18RFbo&t=330s]
 
 
 
